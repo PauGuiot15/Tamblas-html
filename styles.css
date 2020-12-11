@@ -11,31 +11,89 @@ body {
 table {
     border-collapse: collapse;
     background-color: #ffffff;
-    font-family: sans;
     border: 2cm rgb(0, 0, 0);
 }
 
 tr {
     width: 6cm 6cm 6cm;
-    background-color: #48beec;
-    border: 2px dashed rgb(0, 0, 0);
-
-}
-
-th {
-    background-color: #4bf5c2;   
+    background-color: #ffffff;
     border: 2px solid rgb(0, 0, 0);
 
 }
 
+th {
+    background-color: #e2e2e2;   
+    border: 2px solid rgb(0, 0, 0);
+    padding: 20px 30px 10px;
+
+
+}
+
 td {
-    border: 20px soli
-    
- 
-    
-    
-    d rgb(0, 0, 0);
+    border: 2px solid rgb(0, 0, 0);
     padding: 2px 40px;
 }
 
-.pati {}
+.pati {
+    background-color: rgb(212, 212, 212);
+    border: 2px dashed rgb(0, 0, 0);
+    text-align: center;
+}
+.M012 {
+    background-color: rgb(255, 77, 77);
+}
+.M010 {
+    background-color: rgb(228, 255, 78);
+}
+.M08 {
+    background-color: rgb(85, 190, 252);
+
+}
+.M07{
+    background-color: rgb(128, 252, 57);
+}
+.M06 {
+    background-color: rgb(231, 37, 231);
+
+}
+.M04 {
+    background-color: rgb(255, 189, 67);
+
+}
+
+.T{
+    background-color:rgb(172, 82, 82);
+}
+
+.up {
+    color: white;
+    background-color: rgb(59, 59, 253);
+} 
+
+
+.tabla2 {
+    background-color: rgb(89, 89, 255);  
+    color: white;
+    align-items: center; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px 70px 10px;
+}
+
+.uno {
+    background-color: white;
+    align-items: center; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px 70px 10px;
+}
+
+.dos {
+    background-color: rgb(203, 217, 255);
+    align-items: center; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 20px 70px 10px;
+}
+
+.titles {
+    color: white;
+    text-align: center;
+}
