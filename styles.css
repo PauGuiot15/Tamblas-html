@@ -1,0 +1,41 @@
+body {
+    background-color: #5fd2ff;
+    margin: 0;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    font-family: sans;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #ffffff;
+    font-family: sans;
+    border: 2cm rgb(0, 0, 0);
+}
+
+tr {
+    width: 6cm 6cm 6cm;
+    background-color: #48beec;
+    border: 2px dashed rgb(0, 0, 0);
+
+}
+
+th {
+    background-color: #4bf5c2;   
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+td {
+    border: 20px soli
+    
+ 
+    
+    
+    d rgb(0, 0, 0);
+    padding: 2px 40px;
+}
+
+.pati {}
